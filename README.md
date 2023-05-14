@@ -29,6 +29,9 @@ Let`s get started:
     
     
   ## Files and Explanation:
+  - [Dockerfile](https://github.com/weristdominik/M1Silicon_DockerLAMP/blob/main/DockerLAMP/php/Dockerfile) is used for downloading/installing and updating your docker packages on every first startup.
+  - [main.sql](https://github.com/weristdominik/M1Silicon_DockerLAMP/blob/main/DockerLAMP/db/main.sql) is used for creating your Database with Tables etc. on every startup
+  - [docker-compose.yml](https://github.com/weristdominik/M1Silicon_DockerLAMP/blob/main/DockerLAMP/docker-compose.yml) here we created the docker image. Here you can find all Ports, Users etc.
 
     
 
